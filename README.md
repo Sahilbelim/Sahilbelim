@@ -39,15 +39,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahilbelim&theme=dark" alt="streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahilbelim&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilbelim&layout=compact&theme=dark" />
-</p>
 
 ---
 
