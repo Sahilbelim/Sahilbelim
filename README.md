@@ -46,7 +46,7 @@
 ### 📫 Let's Connect
 
 - 📧 Email: sahilbelim7770@gmail.com  
-- 💼 Portfolio: [sahil-portfolio.vercel.app](https://sahil-portfolio.vercel.app) *(Update with real link)*  
+- 💼 Portfolio: [sahil-portfolio.vercel.app](https://belim.vercel.app) *(Update with real link)*  
 - 💻 GitHub: [@Sahilbelim](https://github.com/Sahilbelim)
 
 ---
